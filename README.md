@@ -2,7 +2,7 @@
 
 The Idea
 ----
-[Fhellow](fhellow.heroku.com) is the brain child of Alisa Afkhami, a freelance designer. Alisa found, like many freelancers eventually do, that whilst being a freelancer has many benefits it can also be a lonely profession. Freelancers are unable to tap into a professional network for contacts, benefits and social discourse, until now. Fhellow is a social networking site for freelance professionals. A place to connect and chat with Fhellow freelancers and build a professional network without an office. 
+[Fhellow](http://fhellow.herokuapp.com/) is the brain child of Alisa Afkhami, a freelance designer. Alisa found, like many freelancers eventually do, that whilst being a freelancer has many benefits it can also be a lonely profession. Freelancers are unable to tap into a professional network for contacts, benefits and social discourse, until now. Fhellow is a social networking site for freelance professionals. A place to connect and chat with Fhellow freelancers and build a professional network without an office. 
 
 The Team
 ----
